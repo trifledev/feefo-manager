@@ -26,7 +26,7 @@
   },
   "autoload": {
     "psr-4" : {
-      "Trifledev\\Feefo\\" : "src/Trifledev/Feefo"
+      "Trifledev\\Feefo\\" : "src"
     }
   }
 }
