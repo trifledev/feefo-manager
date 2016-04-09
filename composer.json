@@ -25,7 +25,7 @@
     "phpunit/phpunit": "5.3.*"
   },
   "autoload": {
-    "psr-0" : {
+    "psr-4" : {
       "Trifledev\\Feefo" : "src"
     }
   }
